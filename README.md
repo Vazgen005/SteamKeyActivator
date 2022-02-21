@@ -2,7 +2,6 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-    <img alt="License: GNU 3.0" src="https://img.shields.io/badge/License-GNU 3.0-yellow.svg" />
   </a>
 </p>
 
