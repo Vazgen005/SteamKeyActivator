@@ -31,10 +31,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
-
-Copyright © 2022 [Vazgen005](https://github.com/Vazgen005).<br />
-This project is [GNU 3.0](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
 
 ***
 _This Project was created by [Vazgen005](https://github.com/Vazgen005)_
